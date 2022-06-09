@@ -19,7 +19,7 @@ Once cloned, install the requirements `pip3 install -r requirements.txt`
  * Debug mode: off
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```
-> Open the http://127.0.0.1:5000 in the browser, and you can see the Google login page, just enter the credentials and you can see those credentials logged in the server logs
+> Open the http://127.0.0.1:5000 in the browser, and you can see the Google login page, just enter the credentials and you can see those credentials saved in **creds.txt** file 
 
 # Screenshot
 ![google-login-page](https://user-images.githubusercontent.com/57899332/172888627-68011cf9-d717-4ccf-852b-c62e9d7f1da5.png)
